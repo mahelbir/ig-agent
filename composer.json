@@ -1,0 +1,21 @@
+{
+  "name": "mahelbir/ig-agent",
+  "description": "User agent generator and parser for Instagram Android",
+  "type": "library",
+  "homepage": "https://github.com/mahelbir/ig-agent",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Mahmuthan Elbir",
+      "email": "me@mahmuthanelbir.com.tr"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Mahelbir\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.4"
+  }
+}
