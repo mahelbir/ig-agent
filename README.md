@@ -61,11 +61,11 @@ echo $igagent->getDeviceString(); // 28/9; 480dpi; 1080x2032; HUAWEI/HONOR; LLD-
 
 ## License
 
-The MIT License (MIT). Please see [License File](LICENSE) for more information.
+The MIT License (MIT). Please see [License File](LISENCE) for more information.
 
 [ico-version]: https://img.shields.io/packagist/v/mahelbir/ig-agent.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
-[ico-downloads]: https://img.shields.io/packagist/dt/mahelbir/ig-agent.svg?style=flat-square
+[ico-downloads]: https://img.shields.io/packagist/dt/mahelbir/ig-agent.svg?style=flat-square&v=2
 
 [link-packagist]: https://packagist.org/packages/mahelbir/ig-agent
 [link-license]: LISENCE
